@@ -1,0 +1,5 @@
+*.zip
+# curseforge (but it sucks)
+
+*.mrpack
+# for when someone decides to not have prism or multimc
