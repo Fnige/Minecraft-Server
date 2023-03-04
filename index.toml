@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "a1d7f219f9c67e391ebd46c9e5b046b511341c6e2b97285ab1f6f6a5c9175a10"
+metafile = true
+
+[[files]]
 file = "mods/limits-grapple.pw.toml"
 hash = "d3e7af0e25bda336bf9991e8a4372b75212dab4fc74eaaebb33f04a5347ac17f"
 metafile = true
