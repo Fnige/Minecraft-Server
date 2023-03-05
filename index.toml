@@ -226,6 +226,11 @@ hash = "03d4272f909720df400b6af4c90a93fc95e3a55c85935e7777724ba9f9bcb994"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "bb7a3fce6f6350212dd0460fd73f2a25c44f0789331faabd5e6b14e60713711f"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
