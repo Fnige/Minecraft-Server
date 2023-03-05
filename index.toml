@@ -186,11 +186,6 @@ hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
-file = "mods/little-logistics-quilt.pw.toml"
-hash = "85a2dbd49b23cf71fb5e12986395c5a1896c6785fbc1536c63c404889ef3d9a0"
-metafile = true
-
-[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
 metafile = true
