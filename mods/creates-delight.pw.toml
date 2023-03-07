@@ -1,0 +1,13 @@
+name = "Create's Delight"
+filename = "CreateSDelightFabricJava-0.1.0-pre7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y90FLPCZ/versions/743ghJWP/CreateSDelightFabricJava-0.1.0-pre7.jar"
+hash-format = "sha1"
+hash = "0ec371bde2ea00c46448316af599b98f47d33554"
+
+[update]
+[update.modrinth]
+mod-id = "Y90FLPCZ"
+version = "743ghJWP"

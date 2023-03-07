@@ -1,0 +1,13 @@
+name = "Ducky Peripherals"
+filename = "ducky-periphs-[1.19.2]-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/l2IpK3Ji/versions/jn0Hek1z/ducky-periphs-%5B1.19.2%5D-1.1.2.jar"
+hash-format = "sha1"
+hash = "816bc40aede4e2d5931eef8630d2894ffe8cff53"
+
+[update]
+[update.modrinth]
+mod-id = "l2IpK3Ji"
+version = "jn0Hek1z"
