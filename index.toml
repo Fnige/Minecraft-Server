@@ -106,11 +106,6 @@ hash = "fd20d186c194b41b945a5308ff42136965464d311a4b29d3b4f6866616860bae"
 metafile = true
 
 [[files]]
-file = "mods/creates-delight.pw.toml"
-hash = "b1f8e7c24f9d1228cd94e72c6d04cf68c3a1ecfde68987045afcd2b46be8275c"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
@@ -138,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "a1d7f219f9c67e391ebd46c9e5b046b511341c6e2b97285ab1f6f6a5c9175a10"
-metafile = true
-
-[[files]]
-file = "mods/enchlevel-langpatch.pw.toml"
-hash = "7338b75a18c24dad0bda963e677d722929dbb5080cc3b5a929505a4cfaee9372"
 metafile = true
 
 [[files]]
